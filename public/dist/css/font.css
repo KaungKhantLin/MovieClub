@@ -1,0 +1,15 @@
+@font-face {
+font-family: ‘Myanmar3’;
+src: url(‘https://www.dropbox.com/s/nn89xr366qsuh/mm3.eot’); /* IE9 Compat Modes */
+src: url(‘https://www.dropbox.com/s/nn89xr36lqsuh/mm3.eot?#iefix’) format(‘embedded-opentype’), /* IE6-IE8 */
+url(‘https://www.dropbox.com/s/goobfl2tcs58bt/mm3.woff’) format(‘woff’), /* Modern Browsers */
+url(‘https://www.dropbox.com/s/goobfl2tc8lxb/mm3.ttf’) format(‘truetype’), /* Safari, Android, iOS */
+url(‘https://www.dropbox.com/s/zlcuoar1j8mmd/mm3.svg#UndercoverRegular’) format(‘svg’); /* Legacy iOS */
+font-weight: normal;
+font-style: normal;
+
+}
+body,html,p,code,*,table,td,tr,span,div,a,ul,li,input,textarea{font-family:'Myanmar3'!important;}
+label, input, button, select, textarea{
+	font-size: 14px;
+}
